@@ -1,3 +1,12 @@
+'''
+TODO: Scrape through each of the items whether hourly or in minutes
+    Define the logic for looping through this URL will help:
+    https://towardsdatascience.com/scraping-multiple-amazon-stores-with-python-5eab811453a8
+    Update the lowest price found if another one is found that's lower than the limit
+    Update the command line interface for better functionality
+'''
+
+
 from bs4 import BeautifulSoup
 import requests
 import csv
