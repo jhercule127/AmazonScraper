@@ -1,5 +1,5 @@
 # AmazonScraper Script
-## This script analyzes individual or groups of products on Amazon with a web scraper
+### This script analyzes individual or groups of products on Amazon with a web scraper
 
 ## Installation
 
